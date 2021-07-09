@@ -23,7 +23,7 @@ SOFTWARE.
 """
 
 #Lost & Found Telegram Bot
-#This project was mode for FCRIT HACK-X-TRONIC 2021
+#This project was mode for FCRIT HACK-X-TRONICS 2021
 #3 July 2021
 #
 #This program is not ready for production use

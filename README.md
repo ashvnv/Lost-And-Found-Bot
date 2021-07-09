@@ -1,4 +1,4 @@
-# Lost-And-Found-Bot
+# Lost & Found Bot
 
 - Using robust bot framework provided by Telegram
 - Locate lost items easily by simply texting the bot\

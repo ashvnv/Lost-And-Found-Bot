@@ -1,5 +1,8 @@
 # Lost & Found Bot
 
+- This program is not ready for production use
+- Telegram Token is removed for security reasons!
+
 <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-22.jpg" width=300>
 
 - Using robust bot framework provided by Telegram

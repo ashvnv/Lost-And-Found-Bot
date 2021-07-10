@@ -11,7 +11,7 @@
 - Easy Admin management features backed right into the bot
 
 ## Easy for users
-User panel ______________________ | Report lost item ______________________ | lost items with the department ______________________
+User panel </br>______________________ | Report lost item </br>______________________ | lost items with the department </br>______________________
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-25.jpg" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-27.jpg" width=220> | <img  src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-32.jpg?raw=true" width=220>
 
@@ -22,7 +22,7 @@ The bot can also send the image of the items so you can be sure it belongs to yo
 If their item is found, admin can easily message and notify the user that their item is found!
 
 ## Easy for admins
-Admin panel ______________________ | Add an item ______________________ | Delete an item ______________________ | Send a message to user ______________________
+Admin panel </br>______________________ | Add an item </br>______________________ | Delete an item </br>______________________ | Send a message to user </br>______________________
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-23-54.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-29.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-36.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-25-23.jpg?raw=true" width=220>
 

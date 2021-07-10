@@ -11,7 +11,9 @@
 - Easy Admin management features backed right into the bot
 
 ## Easy for users
-<img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-25.jpg" width=250> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-27.jpg" width=250> | <img  src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-32.jpg?raw=true" width=250>
+User panel | Report lost item | lost items with the department
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-25.jpg" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-27.jpg" width=220> | <img  src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-32.jpg?raw=true" width=220>
 
 - Simply text and see if your item is there with the Lost & Found department. 
 The bot can also send the image of the items so you can be sure it belongs to you only.
@@ -20,10 +22,10 @@ The bot can also send the image of the items so you can be sure it belongs to yo
 If their item is found, admin can easily message and notify the user that their item is found!
 
 ## Easy for admins
-<img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-23-54.jpg?raw=true" width=250>
+Admin panel | Add an item | Delete an item | Send a message to user
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-23-54.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-29.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-36.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-25-23.jpg?raw=true" width=220>
 
-<img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-29.jpg?raw=true" width=250> | 
-<img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-36.jpg?raw=true" width=250> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-25-23.jpg?raw=true" width=250>
 - Admins can easily add or remove items from the database by simply texting the bot. 
 No need to use a separate computer for database management.
 Multiple admins can be authorised.

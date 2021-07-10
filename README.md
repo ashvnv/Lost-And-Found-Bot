@@ -11,7 +11,7 @@
 - Easy Admin management features backed right into the bot
 
 ## Easy for users
-User panel | Report lost item | lost items with the department
+User panel ______________________ | Report lost item ______________________ | lost items with the department ______________________
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-25.jpg" width=220> | <img src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-27.jpg" width=220> | <img  src="https://github.com/ashvnv/Lost-And-Found-Bot/blob/main/pics/photo_2021-07-09_15-06-32.jpg?raw=true" width=220>
 
